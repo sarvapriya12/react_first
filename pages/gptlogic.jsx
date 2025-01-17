@@ -1,5 +1,5 @@
 // gptlogic.jsx
-import React from 'react';
+import React from "react";
 
 export function GptLogic() {
   return (
